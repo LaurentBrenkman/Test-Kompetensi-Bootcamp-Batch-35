@@ -31,7 +31,7 @@ function nmr3(n) {
         }
     }
     else {
-        console.log("nmr3 can't be executed. Please enter odd number!")
+        console.log("nmr3 tidak bisa di eksekusi")
     }
 }
 
